@@ -20,6 +20,6 @@ node --harmony-async-await aoc.js --level 1
 
 ## TODO
 
-- auto-generate test cases (look for <code> tags)
+- auto-generate test cases (look for \<code> tags)
 - turn into NPM package
 - submit solution
